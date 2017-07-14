@@ -1,0 +1,14 @@
+#widget-flow-vc{right:-3px;margin-right:25px;width:auto;bottom:41px;height:41px;position:fixed;z-index:999;overflow:hidden;border-radius:10px;}
+#widget-flow-vc img{max-width:226px;margin-top:-15px;!important}
+@media (min-width: 1025px){
+	#fxo-widget-iframe{right:10px;bottom: 24px;}
+}
+@media (max-width: 1025px){
+	#fxo-widget-iframe{bottom: 24px;}
+}
+@media (min-width: 769px){
+	#fxo-widget-iframe{bottom: 24px;}
+}
+@media (max-width: 769px){
+	#fxo-widget-iframe{right:10px;bottom: 24px;}
+}
